@@ -92,5 +92,5 @@ copiloto-rh-ia/
 
 <p align="center">
   Trabalho da disciplina <b>Fundamentos de IA com foco em IA Generativa</b> · Graduação Tecnológica em Inteligência Artificial e Automação Digital · <b>UniFECAF</b><br>
-  Feito por <a href="https://www.linkedin.com/in/thiago-felipe-17a35839">Thiago Felipe Oliveira</a>
+  Feito por <a href="https://www.linkedin.com/in/thiagofelipeoliveira">Thiago Felipe Oliveira</a>
 </p>
